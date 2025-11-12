@@ -1,5 +1,9 @@
 # SimPickGen
 Autonomous Pick-and-Place execution in Isaac Sim using cuRobo, logging synchronized multi-modal data (joints &amp; vision) for Embodied AI.
+## Status
+Thank you for your interest in this project!  
+
+It is currently under development, and the code will be released once it's ready.
 
 ## Installation Guide for SimPickGen
 This guide walks you through setting up the environment to run SimPickGen — an autonomous pick-and-place system in NVIDIA Isaac Sim, powered by cuRobo and logging synchronized multi-modal data (vision, joints, end-effector pose, language commands) for Embodied AI.
